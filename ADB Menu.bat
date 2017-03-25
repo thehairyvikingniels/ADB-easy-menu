@@ -8,7 +8,7 @@ color 0F
 :info
 echo.
 echo **************************************************
-echo Copyright Niels Maarleveld V 1.0.0.1 Alpha
+echo Made by TheHairyVikingNiels
 echo **************************************************
 echo.
 echo Menu for using simple ADB Commands on a android
@@ -16,8 +16,6 @@ echo phone. Make sure that only one (Android) phone is
 echo connected via a USB cable. Also make sure that USB
 echo Debugging is enabled in develper options.
 echo.
-echo By continuing you accept the terms and conditions
-echo found in Terms.txt
 echo **************************************************
 echo.
 pause
