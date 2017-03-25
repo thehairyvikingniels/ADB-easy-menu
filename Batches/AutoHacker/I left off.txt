@@ -1,0 +1,3 @@
+https://stackoverflow.com/questions/8708886/connecting-to-wi-fi-using-adb-shell
+https://github.com/steinwurf/adb-join-wifi/blob/master/README.rst
+http://forum.xda-developers.com/tmobile-galaxy-s6-edge/general/how-to-hide-apps-adb-shell-t3069405

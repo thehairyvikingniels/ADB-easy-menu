@@ -1,0 +1,1 @@
+10.29.217.0/24 dev rmnet0  proto kernel  scope link  src 10.29.217.1 
