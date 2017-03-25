@@ -1,2 +1,2 @@
 # ADB-easy-menu
-A menu to make the use of adb more easy
+This is meant to be an easy way to use the android debug bridge.
