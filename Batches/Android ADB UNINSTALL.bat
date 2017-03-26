@@ -1,7 +1,8 @@
 @echo off
-title ADB UNINSTALL
+title ADB Uninstall
 set ss=* deamon running *
-set /p diradb=<Path_to_platformtools.txt
+set diradb=%~dp0
+set diradb=%diradb:Batches=Tools%
 set dirbat=%~dp0
 set dirbat=%dirbat:Batches=Output_Files%
 if exist "%dirbat%\packets.txt" del %dirbat%\packets.txt
