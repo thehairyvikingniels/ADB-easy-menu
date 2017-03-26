@@ -1,3 +1,4 @@
+v 3.0   26-03-2017  22:19   Added Screenshot.bat
 v 2.0   26-03-2017  22:12   Added Shutdown.bat
 v 1.5   26-03-2017  21:32   Made it possible to be standalone
 v 1.0   25-03-2017  13:15   Added Uninstall.bat
