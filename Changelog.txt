@@ -1,5 +1,6 @@
 Build   Date        Time    Change  File                    Discription
 
+v 7.0   29-03-2017  20:52   Add     OpenWebsite.bat         This opens a website that you enter in the prompt.
 v 6.1   27-03-2017  23:16   Add     Wifi_config.txt         This configfile lets you set your own wifi SSID and Password in the OverWIFI.bat.
 v 6.0   27-03-2017  23:06   Add     OverWifi.bat            This lets you connect adb over the wifi connection that your pc is on. (same network should also work)
 v 5.0   27-03-2017  18:45   Add     ManualTerminal.bat      This way you don't need to go to cmd and change path.
